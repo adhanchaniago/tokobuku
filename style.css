@@ -1,0 +1,55 @@
+body{
+	background: LightGray;
+}
+a:link, a:visited{
+	color:Tomato;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;	
+}
+
+a:hover, a:active{
+	background: yellow;
+}
+
+table{
+	width: 100%;
+}
+
+th{
+	background: lightgray;
+}
+
+table, th, td{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+
+h1{
+	color: blue;
+	text-align: center;
+	text-transform: uppercase;
+}
+.center{
+	text-align: center;
+}
+
+.btn {
+	background: #6970C1;
+	padding:5px 10px !important;
+	border:1px solid #604D0A;
+	color: #fff;
+}
+.tombol1{
+	width:100px;
+	background-color:rgb(26, 53, 207);
+	color:white;font-weight:bold;
+	padding:4px;
+}
+.tombol{
+	width:100px;
+	background-color:rgba(240, 38, 55, 0.884);
+	color:white;font-weight:bold;
+	padding:4px;
+}
